@@ -1,0 +1,9 @@
+{
+  "name": "Inkarnation \u2014 Hope, Healing & New Life",
+  "short_name": "Inkarnation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#183b36",
+  "description": "A prison ministry resource for faith, families, volunteers, gentle movement, and meditation."
+}
